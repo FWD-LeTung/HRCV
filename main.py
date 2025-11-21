@@ -7,7 +7,7 @@ from datetime import datetime
 
 # --- CẤU HÌNH ---
 # 1. Điền API Key DeepSeek của bạn
-DEEPSEEK_API_KEY = "sk-92ac6d751fd146a7b45bc033dd8f1391" 
+DEEPSEEK_API_KEY = "" 
 
 # 2. Đường dẫn thư mục
 INPUT_FOLDER = "D:/CV" 
