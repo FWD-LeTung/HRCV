@@ -1,7 +1,6 @@
 import os
 import json
-import pdfplumber
-import pandas as pd
+#import pdfplumber
 from openai import OpenAI
 from datetime import datetime
 

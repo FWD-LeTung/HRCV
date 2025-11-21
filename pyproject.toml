@@ -5,8 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "customtkinter>=5.2.2",
     "openai>=2.8.1",
     "openpyxl>=3.1.5",
-    "pandas>=2.3.3",
     "pdfplumber>=0.11.8",
+    "pyinstaller>=6.16.0",
 ]
